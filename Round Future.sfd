@@ -4,8 +4,9 @@ FullName: Round Future
 FamilyName: Round Future
 Weight: Regular
 Copyright: Copyright (c) 2017 Benjamin Philippe Applegate (www.ben.pr@gmail.com)\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\nThis license is copied below, and is also available with a FAQ at:\nhttp://scripts.sil.org/OFL\n\n-----------------------------------------------------------\nSIL OPEN FONT LICENSE Version 1.1 - 26 February 2007\n-----------------------------------------------------------\n\nPREAMBLE\nThe goals of the Open Font License (OFL) are to stimulate worldwide\ndevelopment of collaborative font projects, to support the font creation\nefforts of academic and linguistic communities, and to provide a free and\nopen framework in which fonts may be shared and improved in partnership\nwith others.\n\nThe OFL allows the licensed fonts to be used, studied, modified and\nredistributed freely as long as they are not sold by themselves. The\nfonts, including any derivative works, can be bundled, embedded,\nredistributed and/or sold with any software provided that any reserved\nnames are not used by derivative works. The fonts and derivatives,\nhowever, cannot be released under any other type of license. The\nrequirement for fonts to remain under this license does not apply\nto any document created using the fonts or their derivatives.\n\nDEFINITIONS\n"Font Software" refers to the set of files released by the Copyright\nHolder(s) under this license and clearly marked as such. This may\ninclude source files, build scripts and documentation.\n\n"Reserved Font Name" refers to any names specified as such after the\ncopyright statement(s).\n\n"Original Version" refers to the collection of Font Software components as\ndistributed by the Copyright Holder(s).\n\n"Modified Version" refers to any derivative made by adding to, deleting,\nor substituting -- in part or in whole -- any of the components of the\nOriginal Version, by changing formats or by porting the Font Software to a\nnew environment.\n\n"Author" refers to any designer, engineer, programmer, technical\nwriter or other person who contributed to the Font Software.\n\nPERMISSION AND CONDITIONS\nPermission is hereby granted, free of charge, to any person obtaining\na copy of the Font Software, to use, study, copy, merge, embed, modify,\nredistribute, and sell modified and unmodified copies of the Font\nSoftware, subject to the following conditions:\n\n1) Neither the Font Software nor any of its individual components,\nin Original or Modified Versions, may be sold by itself.\n\n2) Original or Modified Versions of the Font Software may be bundled,\nredistributed and/or sold with any software, provided that each copy\ncontains the above copyright notice and this license. These can be\nincluded either as stand-alone text files, human-readable headers or\nin the appropriate machine-readable metadata fields within text or\nbinary files as long as those fields can be easily viewed by the user.\n\n3) No Modified Version of the Font Software may use the Reserved Font\nName(s) unless explicit written permission is granted by the corresponding\nCopyright Holder. This restriction only applies to the primary font name as\npresented to the users.\n\n4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font\nSoftware shall not be used to promote, endorse or advertise any\nModified Version, except to acknowledge the contribution(s) of the\nCopyright Holder(s) and the Author(s) or with their explicit written\npermission.\n\n5) The Font Software, modified or unmodified, in part or in whole,\nmust be distributed entirely under this license, and must not be\ndistributed under any other license. The requirement for fonts to\nremain under this license does not apply to any document created\nusing the Font Software.\n\nTERMINATION\nThis license becomes null and void if any of the above conditions are\nnot met.\n\nDISCLAIMER\nTHE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,\nEXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF\nMERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT\nOF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE\nCOPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,\nINCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL\nDAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING\nFROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM\nOTHER DEALINGS IN THE FONT SOFTWARE.
-UComments: "This font was made by Benjamin Philippe Applegate (http://github.com/Camto) using FontForge (http://fontforge.github.io)"
+UComments: "This font was made by Benjamin Philippe Applegate (http://github/Camto) using FontForge (http://fontforge.github.io)"
 Version: 1.0
+DefaultBaseFilename: Round Future
 ItalicAngle: 0
 UnderlinePosition: -100
 UnderlineWidth: 50
@@ -22,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1499410292
-ModificationTime: 1499450693
+ModificationTime: 1499464989
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -44,7 +45,7 @@ HheadDOffset: 0
 OS2Vendor: 'PfEd'
 MarkAttachClasses: 1
 DEI: 91125
-LangName: 1033
+LangName: 1033 "" "" "" "" "" "" "" "" "" "Benjamin Philippe Applegate" "" "" "http://github.com/Camto" "" "" "" "Round Future" "" "" "AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZz"
 Encoding: ISO8859-1
 UnicodeInterp: none
 NameList: AGL For New Fonts
@@ -55,7 +56,7 @@ WinInfo: 48 16 4
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 256 8
+BeginChars: 256 12
 
 StartChar: C
 Encoding: 67 67 0
@@ -79,6 +80,7 @@ SplineSet
  375 65 427 126 427 220 c 0
  499 220 l 4
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: G
@@ -93,21 +95,23 @@ SplineSet
  154 65 122 169 122 285 c 3
  122 383 119 322 119 420 c 3
  119 521 167 612 268 612 c 3
- 360 612 435 550 433 458 c 0
+ 359 612 433 552 433 462 c 0
+ 433 460 433 459 433 458 c 0
  499 458 l 3
- 499 608.013332741 393 681 267 681 c 3
+ 499 608 393 681 267 681 c 3
  133 681 55 554 55 420 c 3
  55 321 55 384 55 285 c 3
  55 150 110 0 271 0 c 19
  404 0 493 64 498 168 c 0
- 498.192085828 171.995385217 498 176 498 180 c 0
+ 498 172 498 176 498 180 c 0
  498 288 l 0
  341 288 l 0
  342 288 l 0
  341 227 l 0
  435 227 l 3
- 435 119.981310044 391 65 270 65 c 3
+ 435 120 391 65 270 65 c 3
 EndSplineSet
+Validated: 5
 EndChar
 
 StartChar: O
@@ -133,6 +137,7 @@ SplineSet
  410 0 499 108 499 264 c 0
  500 403 l 3
 EndSplineSet
+Validated: 9
 EndChar
 
 StartChar: zero
@@ -164,6 +169,7 @@ SplineSet
  55 554 133 681 267 681 c 7
  393 681 499 598 499 402 c 0
 EndSplineSet
+Validated: 5
 EndChar
 
 StartChar: o
@@ -175,14 +181,14 @@ LayerCount: 2
 Fore
 SplineSet
 274 371 m 0
- 366 371 435 295 435 211 c 0
+ 366 371 435 295 435 211 c 4
  435 129 356 57 280 57 c 0
  206 57 124 119 124 217 c 0
  124 299 188 371 274 371 c 0
 276 437 m 16
  156 437 66 337 66 217 c 24
  66 97 158 1 278 1 c 24
- 397 1 497 90 497 209 c 24
+ 397 1 497 90 497 209 c 28
  497 334 401 437 276 437 c 16
 EndSplineSet
 Validated: 9
@@ -196,24 +202,25 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-167 367.16015625 m 0
- 167 367.16015625 102.440429688 367.16015625 102.440429688 367.16015625 c 0
- 103.259765625 456.48046875 176.240234375 536.560546875 274.640625 536.560546875 c 8
- 377.140625 536.560546875 453.400390625 457.25 453.400390625 361 c 0
- 453.400390625 295.55078125 453.400390625 201.610351562 453.400390625 159.260742188 c 8
- 453.400390625 67.630859375 373.860351562 -0.8994140625 276.280273438 -0.8994140625 c 24
- 177.879882812 -0.8994140625 102.440429688 73.0205078125 102.440429688 165.420898438 c 24
- 102.440429688 257.8203125 176.240234375 334.8203125 274.640625 334.8203125 c 0
- 332.040039062 334.8203125 392.020507812 274.760742188 392.020507812 274.760742188 c 0
- 392.020507812 326.350585938 391.020507812 299.400390625 391.020507812 362.540039062 c 0
- 391.020507812 423.220703125 344.440429688 472.740234375 273 472.740234375 c 0
- 211.48046875 472.740234375 167 423.30078125 167 367.16015625 c 0
+167 367 m 0
+ 167 367 102 367 102 367 c 0
+ 103 456 176 537 275 537 c 8
+ 377 537 453 457 453 361 c 0
+ 453 296 453 202 453 159 c 8
+ 453 68 374 -1 276 -1 c 24
+ 178 -1 102 73 102 165 c 24
+ 102 258 176 335 275 335 c 0
+ 332 335 392 275 392 275 c 0
+ 392 326 391 299 391 363 c 0
+ 391 423 344 473 273 473 c 0
+ 211 473 167 423 167 367 c 0
 274 271 m 0
- 207.48046875 271 164 224.560546875 164 165.420898438 c 0
- 164 98.9599609375 222.240234375 57.220703125 277.919921875 57.220703125 c 0
- 335.240234375 57.220703125 391.020507812 102.66015625 391.020507812 160.80078125 c 0
- 391.020507812 214.48046875 336.440429688 271 274 271 c 0
+ 207 271 164 225 164 165 c 0
+ 164 99 222 57 278 57 c 0
+ 335 57 391 103 391 161 c 0
+ 391 214 336 271 274 271 c 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: b
@@ -233,35 +240,140 @@ SplineSet
  401 437 497 334 497 209 c 24
  497 90 397 1 278 1 c 24
  158 1 66 97 66 217 c 16
- 66 270.275574803 66 491 66 684 c 25
- 126 684 l 25
- 124 544 124 225.616210938 124 356 c 3
- 124 384.844726562 209.275574803 437 276 437 c 8
+ 66 270 66 491 66 684 c 25
+ 126 684 l 17
+ 124 567 124 325 124 325 c 0
+ 124 325 124 335 124 356 c 3
+ 124 385 209 437 276 437 c 8
 EndSplineSet
+Validated: 5
 EndChar
 
 StartChar: d
 Encoding: 100 100 7
 Width: 565
 VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+286 370 m 0
+ 371 370 434 298 434 216 c 0
+ 434 118 353 56 280 56 c 0
+ 205 56 127 128 127 210 c 0
+ 127 294 195 370 286 370 c 0
+284 436 m 8
+ 160 436 65 333 65 208 c 24
+ 65 89 164 0 282 0 c 24
+ 401 0 492 96 492 216 c 16
+ 492 269 492 490 492 683 c 25
+ 432 683 l 17
+ 434 566 434 324 434 324 c 0
+ 434 324 434 334 434 355 c 3
+ 434 384 350 436 284 436 c 8
+EndSplineSet
+Validated: 5
+EndChar
+
+StartChar: c
+Encoding: 99 99 8
+Width: 565
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+66 217 m 16
+ 66 218 66 218 66 219 c 0
+ 66 338 157 437 276 437 c 0
+ 362 437 458 371 458 326 c 0
+ 458 326 385 327 384 327 c 0
+ 359 357 317 371 274 371 c 0
+ 188 371 124 299 124 217 c 0
+ 124 119 206 57 280 57 c 0
+ 356 57 388 99 388 99 c 1
+ 427 100 451 100 460 100 c 1
+ 459 41 370 0 278 0 c 0
+ 160 0 67 99 66 217 c 16
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: e
+Encoding: 101 101 9
+Width: 565
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+279 0 m 1051
+274 376 m 0,0,1
+ 200 376 134 322 132 265 c 0
+ 132 264 440 260 440 260 c 0
+ 440 319 355 376 274 376 c 0,0,1
+497 211 m 0,14,15
+ 497 211 172 217 129 217 c 0,0,0
+ 126 217 124 217 124 217 c 0,6,7
+ 124 119 206 57 280 57 c 0,4,5
+ 356 57 398 105 398 105 c 1,0,0
+ 471 105 l 1,0,0
+ 415 2 284 1 278 1 c 0,0,0
+ 278 1 278 1 278 1 c 0,12,13
+ 157 1 66 97 66 217 c 24,10,11
+ 66 337 156 437 276 437 c 0,8,9
+ 336 437 495 401 497 211 c 0,14,15
+EndSplineSet
+Validated: 5
+EndChar
+
+StartChar: D
+Encoding: 68 68 10
+Width: 565
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+272 65 m 3
+ 377 65 431 165 431 266 c 27
+ 431 367 435 304 435 405 c 27
+ 435 510 362 613 270 613 c 3
+ 226 613 153 610 129 610 c 1
+ 127 574 124 64 124 64 c 25
+ 180 65 156 65 272 65 c 3
+62 678 m 1
+ 99 680 198 682 269 682 c 3
+ 395 682 500 599 500 403 c 3
+ 499 264 l 0
+ 499 108 410 0 273 0 c 3
+ 199 0 93 0 58 3 c 1
+ 58 59 62 630 62 678 c 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: n
+Encoding: 110 110 11
+Width: 565
+VWidth: 0
 Flags: HWO
 LayerCount: 2
 Fore
 SplineSet
-285.959960938 370 m 4
- 371.099609375 370 434.459960938 298 434.459960938 216 c 4
- 434.459960938 118 353.280273438 56 280.020507812 56 c 4
- 204.780273438 56 126.5703125 128 126.5703125 210 c 4
- 126.5703125 294 194.879882812 370 285.959960938 370 c 4
-283.98046875 436 m 12
- 160.23046875 436 65.1904296875 333 65.1904296875 208 c 28
- 65.1904296875 89 164.190429688 0 282 0 c 28
- 400.799804688 0 491.879882812 96 491.879882812 216 c 20
- 491.879882812 269.275390625 491.879882812 490 491.879882812 683 c 29
- 432.48046875 683 l 29
- 434.459960938 543 434.459960938 224.616210938 434.459960938 355 c 7
- 434.459960938 383.844726562 350.037109375 436 283.98046875 436 c 12
+497 209 m 0
+ 497 142 497 82 495 0 c 25
+ 436 0 l 17
+ 435 82 435 129 435 211 c 0
+ 435 295 366 371 274 371 c 0
+ 188 371 124 299 124 217 c 0
+ 124 119 124 85 124 0 c 25
+ 67 0 l 25
+ 66 85 66 133 66 217 c 0
+ 66 338 156 437 276 437 c 8
+ 401 437 497 334 497 209 c 0
 EndSplineSet
+Validated: 1
 EndChar
 EndChars
 EndSplineFont
